@@ -1,2 +1,3 @@
-# creditcard_pred
-DACON 대회
+## creditcard_pred
+- 기존 DACON 대회 참여
+-신용카드 사용자 데이터를 보고 사용자의 대금 연체 정도를 예측하는 알고리즘 개발 
